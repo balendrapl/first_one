@@ -1,2 +1,4 @@
 # first_one
-This is my first repo on GitHub
+This is my first Git Repository.
+<br>
+-Balendra Pal
